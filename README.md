@@ -29,11 +29,11 @@
 <div id="aboutme" align="left">
 Я начинающий аналитик данных <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47hdfelgqx2583y9db3f7n0om5o3l82rhkki8w7cu7&rid=giphy.gif" width="30">
 
-- :telescope: Стремительно развиваю свои навыки в области анализа данных
+- :telescope: Буду делелиться здесь своими большими и не очень успехами
 
 - :seedling: Нахожусь в поиске любимой работы
 
-- :zap: В свободное время глубже изучаю python
+- :zap: В свободное время глубже изучаю python и улучшаю свои навыки в области анализа данных
 
 - :mailbox: Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-Wachamba-blue?style=flat&logo=Telegram&logoColor=white)](yhttps://t.me/Wachamba)
 </div>
