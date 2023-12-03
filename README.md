@@ -27,11 +27,11 @@
 ### :man_technologist: About me :
 
 <div id="aboutme" align="left">
-Я начинающий аналитик данных <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47hdfelgqx2583y9db3f7n0om5o3l82rhkki8w7cu7&rid=giphy.gif" width="30">
+<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47hdfelgqx2583y9db3f7n0om5o3l82rhkki8w7cu7&rid=giphy.gif" width="30">
 
 - :telescope: Буду делелиться здесь своими большими и не очень успехами
 
-- :seedling: Нахожусь в поиске любимой работы
+- :seedling: Работаю Дата Аналитико
 
 - :zap: В свободное время глубже изучаю python и улучшаю свои навыки в области анализа данных
 
